@@ -7,8 +7,7 @@ Features:
      - modulo
      - lograthm
      - exponentiation and
-     - square root
-
+     - square root  Note: Remember to enter '1' before the last three features :)  
 Bug fixes: None for now but since this program was done in a short amount of time, there might be a few and will be fixed in the further update.
 
 License: The repository is licensed under the MIT License.
