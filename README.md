@@ -9,7 +9,6 @@ Features:
      - exponentiation and
      - square root
 
-Bug fixes: None for now but since this program was done in a short amount of time, there might be a few and will be fixed in the furthur update.
-
+Bug fixes: None for now but since this program was done in a short amount of time, there might be a few and will be fixed in the further update.
 
 License: The repository is licensed under the MIT License.
